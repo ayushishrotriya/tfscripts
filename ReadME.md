@@ -2,7 +2,7 @@
 
 * VPC module created and .tfvars container value of variables. 
 * First do aws configure to add Access Key ID and Secret Access Key of AWS IAM user. 
-* Update variable details if needed to updated. If ok with same configuration then please proceed with belo steps. 
+* Update variable details if needed to updated. If ok with same configuration then please proceed with below steps. 
 * terraform init to initialize terraform module and provider. 
 * terraform plan and terraform apply. 
 
